@@ -1,9 +1,3 @@
 node_modules
 .env
-apiList.md
-homework.md
-res.json
-user.json
-pass.json
-cookie.txt
 .env.example

@@ -25,5 +25,6 @@
 ```bash
 git clone https://github.com/silvercroc01/konnekt.git
 cd konnekt
+cp .env.example .env
 npm install
 npm run dev
